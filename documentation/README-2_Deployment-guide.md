@@ -54,7 +54,7 @@ git push origin master
 
 ```shell
         sudo su -
-        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
         . ~/.nvm/nvm.sh
         nvm install 22.20.0
         nvm use 22.20.0

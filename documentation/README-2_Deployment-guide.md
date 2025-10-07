@@ -160,6 +160,7 @@ http://yourInvokeURL from API Gateway
    * client/src/app/(components)/Navbar/index.tsx
    * client/src/app/(components)/Sidebar/index.tsx
    * client/src/app/Dashboard/CardPopularProducts.tsx
+   * client/src/app/products/page.tsx
 
 5. Push changes
    ```shell

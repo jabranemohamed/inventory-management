@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Script type="text/javascript" strategy="afterInteractive" src="https://js-cdn.dynatrace.com/jstag/1944242a637/bf58334gfh/d291716c14ae545a_complete.js" crossOrigin="anonymous"></Script>
+        <Script type="text/javascript" strategy="afterInteractive" src="https://js-cdn.dynatrace.com/jstag/1944242a637/bf58334gfh/b0643b422d02a25f_complete.js" crossOrigin="anonymous"></Script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
